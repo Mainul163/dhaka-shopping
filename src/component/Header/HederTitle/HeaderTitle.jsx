@@ -9,7 +9,7 @@ const HeaderTitle = () => {
         This is an online based shopping site
       </marquee>
       <marquee behavior="scroll" direction="left" scrollamount="12">
-        Merul Badda dhaka,1212
+        Address: Merul Badda dhaka,1212
       </marquee>
     </>
   );
