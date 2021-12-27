@@ -4,3 +4,19 @@
   font-family: "Playfair Display", serif;
   color: beige;
 }
+@media only screen and (min-width: 410px) and (max-width: 991px) {
+  .header-font {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Playfair Display", serif;
+    color: beige;
+  }
+}
+@media only screen and (min-width: 350px) and (max-width: 409px) {
+  .header-font {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Playfair Display", serif;
+    color: beige;
+  }
+}

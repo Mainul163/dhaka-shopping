@@ -5,12 +5,8 @@ import HeaderTitle from "../HederTitle/HeaderTitle";
 const Header = () => {
   return (
     <>
-      <section className="addBackgroundImage">
-        <Row align="middle" justify="center">
-          <Col xs={12} sm={12} md={12} lg={12} xl={16} xxl={16}>
-            <HeaderTitle />
-          </Col>
-        </Row>
+      <section className="addBackgroundImage textAlign">
+        <HeaderTitle />
       </section>
     </>
   );
